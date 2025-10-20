@@ -1,0 +1,2 @@
+greedy, find top-3. O(n).
+

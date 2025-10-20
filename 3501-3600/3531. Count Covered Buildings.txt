@@ -1,0 +1,2 @@
+Record min/max on rows/cols. O(n+m).
+

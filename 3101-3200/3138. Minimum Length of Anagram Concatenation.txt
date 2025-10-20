@@ -1,0 +1,4 @@
+1. Enumerate factors and verify. O(n*2^{log n/log log n}) or O(n log log n).
+2. divide and conquer. Either fold the intervals, or only need to check a subset of separating indices. O(n).
+https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/solutions/3027988/fu-za-du-onde-li-lun-zui-you-fang-fa-by-urx40/
+

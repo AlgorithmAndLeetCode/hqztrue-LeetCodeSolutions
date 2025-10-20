@@ -1,0 +1,2 @@
+binary search, greedy from left to right. O(n log U).
+

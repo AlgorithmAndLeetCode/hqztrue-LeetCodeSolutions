@@ -1,0 +1,2 @@
+1. Enumerate multiples. O(U log U).
+2. Enumerate prime divisors and DP, f[i]=min_{p_j|i}f[i/p_j]. O(U log log U).

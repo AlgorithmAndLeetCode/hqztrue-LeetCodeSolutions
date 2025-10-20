@@ -1,0 +1,2 @@
+O(n+m log n) by convex hull. See my article https://leetcode.cn/problems/find-the-minimum-amount-of-time-to-brew-potions/solutions/3625002/onm-log-ntu-ke-er-fen-by-hqztrue-ktyh/
+

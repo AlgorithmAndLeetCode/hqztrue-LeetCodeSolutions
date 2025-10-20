@@ -1,0 +1,2 @@
+O(n log U). see my article https://leetcode.cn/problems/maximize-subarray-gcd-score/solutions/3695588/on-log-ude-suan-fa-by-hqztrue-o3am/
+

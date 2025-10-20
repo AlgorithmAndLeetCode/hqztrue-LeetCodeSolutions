@@ -1,0 +1,3 @@
+1. Since k>=4, we can reduce to 1D. binary search+doubling. O(n log k log U) or O(nk log U).
+2. Use dfs on tree to record the k-th ancestor. Each binary search takes O(n) time. O(n log n+n log U).
+3. For each binary search check, greedily extend each point to the right, in O(n) time using DP. Only need to check the leftmost point in the solution. O(n log n+n log U).

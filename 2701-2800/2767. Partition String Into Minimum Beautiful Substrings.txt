@@ -1,2 +1,4 @@
-(near) O(n): https://leetcode.cn/problems/partition-string-into-minimum-beautiful-substrings/solution/jie-jin-onde-zuo-fa-by-hqztrue-sf50/
+O(n log n) or O(n log^* n): https://leetcode.cn/problems/partition-string-into-minimum-beautiful-substrings/solution/jie-jin-onde-zuo-fa-by-hqztrue-sf50/
+
+Q: can we get O(n) by analyzing the amortized number of success matches?
 

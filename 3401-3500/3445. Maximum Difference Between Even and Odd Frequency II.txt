@@ -1,0 +1,2 @@
+Enumerate a pair of characters and solve by DP, on the subsequence containing only these two characters. O(n*|Σ|).
+

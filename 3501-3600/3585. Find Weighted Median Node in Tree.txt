@@ -1,0 +1,2 @@
+binary lifting. O(n log n).
+

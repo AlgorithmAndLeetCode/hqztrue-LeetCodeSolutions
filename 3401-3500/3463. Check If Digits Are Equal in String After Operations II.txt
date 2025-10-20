@@ -1,0 +1,2 @@
+binomial, Lucas theorem. O(n).
+

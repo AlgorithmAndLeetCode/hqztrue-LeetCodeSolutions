@@ -1,0 +1,4 @@
+1. tree DP. O(n*3^D).
+2. tree DP. O(n/D*4^D).
+3. DP, merge small subtrees into large subtrees. O(n log n*2^D) or O(n*2^D log D). See my article https://leetcode.cn/problems/maximum-good-subtree-score/solutions/3696224/geng-kuai-de-on2d-log-dde-suan-fa-by-hqz-x8qg/
+

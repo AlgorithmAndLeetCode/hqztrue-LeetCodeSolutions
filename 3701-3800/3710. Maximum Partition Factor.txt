@@ -1,0 +1,4 @@
+1. binary search + bipartite graph verification. O(n^2 log n).
+2. dynamic range reporting. O(n polylog n).
+3. grid+sparse graph. O(n log n). See my article https://leetcode.cn/problems/maximum-partition-factor/solutions/3807319/geng-kuai-de-on-log-nde-suan-fa-by-hqztr-dzpz/
+

@@ -1,0 +1,4 @@
+state-compressed DP. O(2^n*nk).
+
+Determine the permutation from left to right, only need to test several random permutations?
+

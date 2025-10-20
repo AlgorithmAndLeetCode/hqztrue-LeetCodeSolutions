@@ -1,0 +1,2 @@
+DP, first reverse, then greedily use swap. O(n^2).
+

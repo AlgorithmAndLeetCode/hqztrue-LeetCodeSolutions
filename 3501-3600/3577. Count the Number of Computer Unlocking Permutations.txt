@@ -1,0 +1,2 @@
+(n-1)! if complexity[0] is the smallest number; 0 otherwise. O(n).
+

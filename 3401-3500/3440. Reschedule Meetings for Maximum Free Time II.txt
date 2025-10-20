@@ -1,0 +1,2 @@
+Maintain the top 3 gaps. O(n).
+

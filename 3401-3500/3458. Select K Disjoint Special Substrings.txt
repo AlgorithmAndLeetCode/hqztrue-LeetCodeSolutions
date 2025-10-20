@@ -1,0 +1,2 @@
+For each character c, we may use the interval defined by the first and the last occurrence of c; then merge the intervals. O(n+poly(|Σ|)).
+

@@ -1,0 +1,3 @@
+1. DP, let f[i][j] denote the optimal solution to change prefix i and s[i]=j. O(n*|Σ|).
+2. DP, median finding. O(n). See my article https://leetcode.cn/problems/minimum-cost-good-caption/solutions/3062208/geng-kuai-de-on-dpzhao-zhong-wei-shu-by-kxmdu/
+
